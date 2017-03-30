@@ -1,4 +1,4 @@
-#About R script- run_analysis.R
+About R script- run_analysis.R
 
 File with R code "run_analysis.R" perform 5 following steps (in accordance assigned task of course work):
 
@@ -21,7 +21,7 @@ Creating a second, independent tidy data set with the average of each variable f
 5.2 Writing second tidy data set in txt file
 PS..The code takes for granted all the data is present in the same folder, un-compressed and without names altered.
 
-#About variables:
+About variables:
 
 x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the downloaded files.
 x_data, y_data and subject_data merge the previous datasets to further analysis.
